@@ -1,4 +1,4 @@
-Matthias Tsivahiny
+# Matthias Tsivahiny
 
 MSc Finance — emlyon business school | Paris & Lyon
 
@@ -6,7 +6,7 @@ ETF Institutional Sales (Amundi · DWS Group) | Finance Automation | Python · S
 
 ---
 
-About
+## About
 
 Finance professional with hands-on experience in ETF institutional sales and quantitative tooling. I build automated workflows and analytics tools to support trading, reporting, and client onboarding — primarily in Python, SQL, and VBA.
 
@@ -14,35 +14,30 @@ Currently studying cross-asset structuring and financial engineering independent
 
 ---
 
-Technical Projects
+## Technical Projects
 
 | Repository | Stack | Description |
 |---|---|---|
-| [etf-performance-analytics](https://github.com/DonPacManElGrande/etf-performance-analytics) | Python · NumPy · Matplotlib | Tracking error, rolling returns, AUM flow analysis and dashboard |
-| [sql-portfolio-analytics](https://github.com/DonPacManElGrande/sql-portfolio-analytics) | SQL · SQLite · Python | ETF universe screening, exposure analysis, rebate-adjusted TCO |
-| [vba-excel-automation](https://github.com/DonPacManElGrande/vba-excel-automation) | VBA · Excel | Weekly reporting, EMT/EET extraction, AUM flow monitoring |
+| [etf-performance-analytics](https://github.com/ma2t-prog/etf-performance-analytics) | Python · NumPy · Matplotlib | Tracking error, rolling returns, AUM flow analysis and dashboard |
+| [sql-portfolio-analytics](https://github.com/ma2t-prog/sql-portfolio-analytics) | SQL · SQLite · Python | ETF universe screening, exposure analysis, rebate-adjusted TCO |
+| [vba-excel-automation](https://github.com/ma2t-prog/vba-excel-automation) | VBA · Excel | Weekly reporting, EMT/EET extraction, AUM flow monitoring |
 
 ---
 
-Experience
+## Experience
 
-**Amundi** — ETF Institutional Sales Assistant *(Mar 2025 – Aug 2025)*
-
-**DWS Group** — ETF Institutional Sales Assistant *(Aug 2024 – Feb 2025)*
-
-**BRED Banque Populaire** — ESG Analyst *(Jul 2023 – Dec 2023)*
+**Amundi** — ETF Institutional Sales Intern · Paris · 2025
+**DWS Group** — ETF Institutional Sales Intern · Paris · 2024–2025
+**BRED Banque Populaire** — ESG Analyst Intern · Paris · 2023
 
 ---
 
-Stack
+## Stack
 
 ```
-Python    Pandas · NumPy · Matplotlib · Requests
-SQL       SQLite · PostgreSQL (fundamentals)
-VBA       Excel automation · Macros · EMT/EET/EPT templates
-Tools     Bloomberg · Aladdin by BlackRock · ALTO by Amundi · Salesforce
+Python   pandas · numpy · matplotlib
+SQL      SQLite · PostgreSQL
+VBA      Excel automation · EMT/EET · AUM reporting
 ```
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-matthias--tsivahiny-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/matthias-tsivahiny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matthias--tsivahiny-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/matthias-tsivahiny)
