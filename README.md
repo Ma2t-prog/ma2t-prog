@@ -8,8 +8,7 @@ ETF Institutional Sales (Amundi · DWS Group) | Finance Automation | Python · S
 
 ## About
 
-Finance professional with hands-on experience in ETF institutional sales and quantitative tooling. I build automated workflows and analytics tools to support trading, reporting, and client onboarding — primarily in Python, SQL, and VBA.
-
+Finance professional with hands-on experience in ETF institutional sales and quantitative tooling.
 Currently studying cross-asset structuring and financial engineering independently (J. Hull, M. Bouzouba / MIT OCW).
 
 ---
